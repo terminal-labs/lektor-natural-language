@@ -5,7 +5,8 @@ setup(
     version='0.1',
     author='Terminal Labs',
     author_email='solutions@terminallabs.com',
-    license='MIT',
+    description='Adds NLTK based template filters.',
+    license='BSD-3-Clause',
     py_modules=['lektor_natural_language'],
     entry_points={
         'lektor.plugins': [
