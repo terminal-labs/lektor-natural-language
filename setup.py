@@ -24,7 +24,7 @@ setup(
     name='lektor-natural-language',
     py_modules=['lektor_natural_language'],
     url='https://github.com/terminal-labs/lektor-natural-language',
-    version='0.3',
+    version='0.3.1',
     classifiers=[
         'Environment :: Plugins',
         'Environment :: Web Environment',
